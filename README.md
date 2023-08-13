@@ -15,6 +15,10 @@ The task of image segmentation is to train a neural network to output a pixel-wi
 # After training U-Net model on the Oxford-IIIT Pets dataset and using Prebuilt mode - MobileNetV2 model :
 ![](https://github.com/joshir199/Image-Segmentation-Computer-Vision/blob/main/model_training_loss.png)
 
+**********************************************
+# model Prediction 
+![](https://github.com/joshir199/Image-Segmentation-Computer-Vision/blob/main/Image_segmentation_prediction_result.png)
+
 
 # Use Cases:
 Applications in Medical Imaging, Self-driving Sars and Satellite Imaging
